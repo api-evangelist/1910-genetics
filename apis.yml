@@ -1,8 +1,26 @@
 aid: 1910-genetics
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/1910-genetics.png
 name: 1910 Genetics
-description: '1910 Genetics is a company surfaced as a portfolio company of playground-global and added
-  to the API Evangelist network as a stub for enrichment. Sector: engineered-biology. This profile is
-  a lead awaiting the enrichment pipeline.'
+description: '1910 Genetics (now branded 1910) is an AI-native biotechnology company advancing small
+  and large molecule drug discovery with a multimodal AI platform powered by high-throughput laboratory
+  automation. Its ITO platform integrates computational data, wet-lab proxy biological data, and wet-lab
+  ground-truth biological data to pursue "modality agnostic" drug discovery, alongside named AI models
+  including PEGASUS (macrocyclic peptide discovery) and CANDID-CNS (CNS-penetration prediction). The
+  company partners with pharma and technology organizations and offers co-engineering collaborations at
+  the data, AI-model, compute, and interactive-tool levels. It is tracked in the API Evangelist network
+  as a portfolio company of Playground Global. As of this profile the company publishes no public API,
+  SDK, or developer documentation surface.'
 url: https://raw.githubusercontent.com/api-evangelist/1910-genetics/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -16,6 +34,12 @@ modified: '2026-07-17'
 tags:
 - Company
 - Engineered Biology
+- Drug Discovery
+- Artificial Intelligence
+- Biotechnology
+- Machine Learning
+- Life Sciences
+- Laboratory Automation
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +48,19 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://www.1910genetics.com/
+  url: https://www.1910.ai/
+- type: PrivacyPolicy
+  url: https://www.1910.ai/privacy-policy
+- type: TermsOfService
+  url: https://www.1910.ai/terms-conditions
+- type: Support
+  url: https://www.1910.ai/contact-us
+- type: DomainSecurity
+  url: security/1910-genetics-domain-security.yml
+- type: LLMsTxt
+  url: llms/1910-genetics-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

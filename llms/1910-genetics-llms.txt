@@ -1,0 +1,21 @@
+# 1910 Genetics
+
+> 1910 Genetics (now branded 1910) is an AI-native biotechnology company advancing small and large molecule drug discovery with a multimodal AI platform powered by high-throughput laboratory automation. Its ITO platform integrates computational, wet-lab proxy, and wet-lab ground-truth biological data to pursue "modality agnostic" drug discovery. As of this profile the company publishes no public API, SDK, or developer documentation surface; it offers co-engineering collaborations to pharma and technology partners.
+
+## Company
+- [Website](https://www.1910.ai/): AI-native biotech drug-discovery company (canonical domain, formerly 1910genetics.com)
+- [Platform](https://www.1910.ai/platform): ITO multimodal AI drug-discovery platform, plus PEGASUS and CANDID-CNS AI models
+- [Careers](https://www.1910.ai/careers): open engineering and scientific roles
+- [Contact](https://www.1910.ai/contact-us): business development — bd@1910.ai
+
+## Legal
+- [Privacy Policy](https://www.1910.ai/privacy-policy)
+- [Terms & Conditions](https://www.1910.ai/terms-conditions)
+
+## Network
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/1910-genetics/refs/heads/main/apis.yml): API Evangelist network profile for 1910 Genetics
+- Backed by: [Playground Global](https://www.1910.ai/)
+
+## Notes
+- No public REST/GraphQL API, OpenAPI/AsyncAPI specification, SDK, CLI, or MCP server is published at this time.
+- Engagement is via co-engineering collaborations rather than a self-serve developer platform.
