@@ -1,0 +1,27 @@
+# Front Door AI Index — 1910-genetics — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: 1910-genetics
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.1910.ai
+  final_host: www.1910.ai
+  ownership: own
+  owner: 1910-genetics
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 13
+  host_score: 13
+  density: 35.91
+  words: 362
+  tiers:
+    agentic: 1
+    core: 12
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI: 12
+    automation: 1
+    chatbot: 1
